@@ -1,0 +1,20 @@
+{
+  "name": "web_24h_info_2025",
+  "version": "1.0.0",
+  "description": "Le repository de notre page web lors des 24h des IUT de 2025",
+  "homepage": "https://github.com/kinator/web_24h_info_2025#readme",
+  "bugs": {
+    "url": "https://github.com/kinator/web_24h_info_2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinator/web_24h_info_2025.git"
+  },
+  "license": "ISC",
+  "author": "BEHANI Julien, FIOLET Corentin, LAFHAJ Ethan, LECOUSTRE Malcom",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
